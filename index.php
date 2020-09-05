@@ -4,7 +4,7 @@
 //https://github.com/kxnst
 //
 
-require_once "TreeNode.php";
+require_once "TreeNode.php"; //pull
 $start = microtime(true);
 
 $connection = new mysqli("localhost","root","","solomono");
